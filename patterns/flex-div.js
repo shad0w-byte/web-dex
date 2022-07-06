@@ -16,10 +16,12 @@ const FlexDiv = styled.div`
     background-color:${props => props.bgColor || "none"};
     
     @media(max-width:576px){
-        width: 100%;
+        position:relative;
+        width:auto;
         flex-direction:column;
         align-items:center;
         justify-content: center;
+        padding:10px;
     }
 
 `

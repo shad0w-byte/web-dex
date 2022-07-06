@@ -39,8 +39,8 @@ export default function HomeContent() {
                 <Head title="Webdex by ssik824"/>
            </header>
              <main>
-                 <FlexDiv width="100vw" height="100vh" direction="column" align="center"> 
-                <Div width="500px" margin="20px 0" padding="20px 0">
+                 <FlexDiv width="100vw" height="100vh" direction="column" align="center" className="home"> 
+                <Div width="500px" margin="10px" padding="10px">
                 <Img src="/mr-mime.gif" alt="mew gif" margin="10px 0 " padding="10px  0"/>
                     <h1 className='title'>Welcome to webdex !</h1>
                    

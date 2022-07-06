@@ -10,8 +10,8 @@ const Img = styled.img`
     border:none;
     @media(max-width:576px){
         position:relative;
-        width:100%;
-        height:100%;
+        width:auto;
+        max-height:100%;
     }
 `
 

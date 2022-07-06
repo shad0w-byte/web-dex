@@ -40,6 +40,12 @@ const PokeCard = styled.div`
     li{
         margin:0 20px;
     }
+    @media(max-width:576px){
+        width:100%;
+        height:100%;
+        padding:10px;
+        margin:0;
+    }
 `
 
 export default function pokecard({pokemon}) {

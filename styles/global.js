@@ -35,6 +35,12 @@ const GlobalStyle = createGlobalStyle`
         text-align:left;
         font-size:20px;
     }
-   
+   @media(max-width:576px){
+       div.home{
+           padding:10px;
+           width:100%;
+           height:auto;
+       }
+   }
 `
 export default GlobalStyle

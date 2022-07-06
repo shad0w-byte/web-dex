@@ -27,7 +27,7 @@ export default function head({title}) {
                     <meta name="robots" content="index, follow"/>
                     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css"/>
 
-                    <link rel="icon" type="image/x-icon" href="/pokebola.svg"/>
+                    <link rel="icon" type="image/x-icon" href="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg"/>
                     <title>{title}</title> 
                     </>
             </NextHead>
