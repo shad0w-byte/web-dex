@@ -1,0 +1,9 @@
+@font-face {
+    font-family: pixels;
+    src: url("./pixels.ttf");
+}
+
+*{
+    font-family: pixels;
+    font-weight:bold;
+}
