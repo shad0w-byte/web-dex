@@ -55,8 +55,8 @@ export default function pokecard({pokemon}) {
                      <h2>{pokemon.name}</h2>
                     <ul>
                         <li>Number: {pokemon.id}</li>
-                        <li>Height: {pokemon.height}</li>
-                        <li>Weight: {pokemon.weight / 10}</li>
+                        <li>Height: {pokemon.height} m</li>
+                        <li>Weight: {pokemon.weight / 10} kg</li>
                     </ul>
                     <FlexDiv direction="column">
                     
