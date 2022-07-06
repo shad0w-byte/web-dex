@@ -1,5 +1,5 @@
 module.exports = {
-    siteUrl: '',
+    siteUrl: 'https://webdex.vercel.app/',
     generateRobotsTxt: true, // opcional
     priority: null,
     changefreq: null,
