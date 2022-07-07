@@ -29,6 +29,7 @@ export default function head({title}) {
 
                     <link rel="icon" type="image/x-icon" href="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg"/>
                     <meta name="google-site-verification" content="VhQSA-WAgNF6QY7IUMhGqwGRrRVmaGFvypFs0QZHGrM" />
+                    <Script async src="https://www.googletagmanager.com/gtag/js?id=G-R1H5EVV2B3"/>
                     <title>{title}</title> 
                     </>
             </NextHead>
