@@ -41,6 +41,10 @@ const Input = styled.input`
     figcaption{
         margin:10px 0;
     }
+    @media(max-width:576px){
+        width:100%;
+        margin:10px;
+    }
 `
 
 export default function HomeContent() {
