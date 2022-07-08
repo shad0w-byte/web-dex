@@ -8,7 +8,7 @@ export default function head({title}) {
         <>
             <NextHead>
                 <>
-                    <meta name="keywords" content="victor kiss, ssik824, sk824, pokemon, pokeapi, next.js, pokedex, styled-components,"/>
+                    <meta name="keywords" content="victor kiss, ssik824, sk824, pokemon, pokeapi, next.js, pokedex, styled-components, github, webdex ssik824, "/>
 
                     <meta name="author" content="victor kiss (ssik824)"/>
 
